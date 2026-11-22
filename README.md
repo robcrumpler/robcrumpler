@@ -18,6 +18,7 @@ Claude Code · TypeScript / Node · Swift / SwiftUI · Supabase · Vercel · Fly
 
 ## Background
 
+- **Startup Crunch** (Executive Leader, Go-To-Market & AI Products) - zero-to-one GTM and AI products for startups; $15M+ raised for clients; clients include [EmergeGen](https://emergegen.ai), [Consensys](https://consensys.com), [Develop Health](https://www.develophealth.ai), [Collective Intelligence](https://sapienceai.co) and [Mocai](https://mocai.ai)
 - **BuzzLogic** (co-founder & CEO) - NLP social analytics and advertising; $0 to $10M+ ARR in 24 months; co-inventor, [U.S. Patent 8,682,723](https://patents.justia.com/patent/8682723)
 - **Altrooz** (founder & CEO) - mobile advertising and app-user acquisition built on machine learning; profitable in 8 months, $10M+ ARR in 24 months
 - **Microsoft MSN** - designed MSN's first ad-supported business and personally sold $15M-$25M advertising deals to Charles Schwab, Citibank, Merrill Lynch, E\*Trade and TD Ameritrade: $180M ARR in year two
